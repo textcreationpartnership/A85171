@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon thundred forth by John Feak in his private congregation, for the loss of their dearly beloved champion, Maj. Gen. Harison</title>
+            <author>Feak, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85171</idno>
+            <idno type="STC">Wing F566</idno>
+            <idno type="STC">Thomason E1046_13</idno>
+            <idno type="STC">ESTC R208070</idno>
+            <idno type="EEBO-CITATION">99867071</idno>
+            <idno type="PROQUEST">99867071</idno>
+            <idno type="VID">119361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119361)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1046[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon thundred forth by John Feak in his private congregation, for the loss of their dearly beloved champion, Maj. Gen. Harison</title>
+                  <author>Feak, John.</author>
+               </titleStmt>
+               <extent>15 [i.e. 16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 16 misnumbered 15.</note>
+                  <note>Annotation on Thomason copy: "Oct. 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harrison, Thomas, 1606-1660 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119361:1" rendition="simple:additions"/>
+            <p>A FUNERAL SERMON Thundred forth by JOHN FEAK In his Private Congregation, FOR The Loſs of their Dearly beloved CHAMPION, Maj. Gen. Hariſon</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>I.P.</hi> in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:119361:2"/>
+            <pb n="3" facs="tcp:119361:2"/>
+            <epigraph>
+               <q>
+                  <bibl>The Honorable Hiſtory of the Seven Champions of Chriſtendom, CHAP. 15. VER. 20.</bibl> Thou ſpeakeſt in vain, reply'd <hi>St. George,</hi> not all the Treaſures hidden in the deepeſt Seas, nor all the gol<g ref="char:EOLhyphen"/>den Mines of rich <hi>America,</hi> ſhall redeem thy life.</q>
+            </epigraph>
+            <p>'TIs very true, my Beloved; for when a man muſt die, who the devil can help it. <hi>Almidor</hi> King of <hi>Morocco</hi> being to die, would have given St. <hi>George</hi> more than our deceaſed <hi>Champion</hi> was worth to have ſav'd his life, yet, quoth he, <hi>thou ſpeakeſt in vain.</hi> Then anſwered the <hi>Morocco</hi> Emperor, Why do I ſpeak in vain? ſpare but my life and I will give thee yearly ten runs of tryed gold. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t St. <hi>George</hi> reply'd, <hi>Thou ſpeakeſt in vain.</hi> Nay further, quoth the Empe<g ref="char:EOLhyphen"/>ror, I will give thee five hundred Webs of woven Silk, a hundred Ships of Spices and refined Sugar, and a hundred waggons laden with Pearls and Jaſper-ſtones. <hi>Sabra,</hi> who was a woman that loved new Gowns, Cau<g ref="char:EOLhyphen"/>dles, and Jewels, hearing that, fell at her husbands feet, and fain ſhe would have begged his life but nei<g ref="char:EOLhyphen"/>ther her intreaty, nor the tears of the poor Emperor could prevail, <hi>Thou ſpeakeſt in vain,</hi> quoth St. <hi>George, not all the Treaſures hidden in the deepeſt Seas, nor all the golden Mines of</hi> America, <hi>ſhall redeem thy life.</hi>
+               <pb n="4" facs="tcp:119361:3"/>
+Beloved, I think this Text is as pat to our purpoſe as a <hi>Cows thumb;</hi> if you don't like it, you may go ſeek a better where you can finde it. For firſt, it is a dogged ſurly Text: and ſecondly, it is a vain-glorious, proud, imperious. Text; and therefore be not angry that I am ſo <hi>teſty,</hi> for we are now to preach ſurlily and dog<g ref="char:EOLhyphen"/>gedly, according to the natu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the perſon whom we are to ſpeak of. Nor ſhall we call ye <hi>Brethren</hi> any more, as in preachments of a milder nature, but <hi>piti<g ref="char:EOLhyphen"/>ful fellows,</hi> ſuch as he would have made ye, had he had but life and power together. And if ye don't like the tearm, ye may get you out of the Church. Firſt then <hi>ye pitiful Raſcals,</hi> let us conſider the words. But ſtay: was he ever wont to conſider when he liv'd? No: Then why ſhould we conſider the words? I won't con<g ref="char:EOLhyphen"/>ſider the words. Why ye <hi>pitiful Raſcals,</hi> will you make me? — ye ſhall be hang'd firſt— I come here to make a Funeral Sermon. — I come not here to conſider the words.<note place="margin">Here one interrupts him in the Pulpit.</note> — Then pray good friend let ye the words alone.—Sirrah, now I will conſider the words. — Yes that I will in ſpite of your teeth.— Let me ſee, what's the firſt word? <hi>Thou.</hi> I marry ſir, there's a bold word indeed. He does not come ſneak<g ref="char:EOLhyphen"/>ing, and cry <hi>You,</hi> or <hi>Your Worſhip,</hi> or <hi>Your Lordſhip,</hi> or <hi>Your Highneſs,</hi> or <hi>Your Majeſty,</hi> but down-right <hi>Thou,</hi> to ſhew him he was none of his fellows that he ſpake to. He was not afraid to <hi>thou</hi> him to his face; I like a fellow that ſpeakes with <hi>mettal.</hi> For ought I know it was too good for him: nay now I think on't, it was too good for him.— How do I know?— Why I do know, and I will know, and I wonder who ſhould know but I? Why, who did St. <hi>George</hi> ſpeak to?
+<pb n="5" facs="tcp:119361:3"/>
+Why, he ſpoke to a King, what if he did? Our de<g ref="char:EOLhyphen"/>ceaſed Champion has ſpoke to a King before now. Speak to the King! why he thought himſelf as good a man as the King could do for his ears. He—he card no more for the King, than I care for a ſtraw: He was one of his Judges mun, one of thoſe that con<g ref="char:EOLhyphen"/>demned him; then give me leave to tell ye: give me leave do I ſay? nay Ile take leave to tell ye, that a Judge is a better man than a priſoner at any time.</p>
+            <p>
+               <hi>Thou ſpeakeſt:</hi> This is not a word to my minde; 'tis too meek, 'tis not ſturdy enough, ye rogues you, it ſhould be <hi>thou prateſt,</hi> and I'le lay my l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe now 'tis ſo in the Original; Pox take him for a Puppy, why could not he tranſlate it as it ſhould be? Rogue—an I had him here, I'de make him tranſlate it as I would have it—Why, 'tis as it ſhould be—Ye lye,<note place="margin">Another in<g ref="char:EOLhyphen"/>terruption</note> 'tis not as it ſhould be—What do I do? Pervert the Text do you ſay? What's that to you; Sirrah? I'le pervert it, and pervert it, and pervert it again; yes and I'le pervert a hundred Texts more if I have a minde to it. Ye Rogue you, I'de have to know that I am not a<g ref="char:EOLhyphen"/>fraid to pervert a Text. Am I bound to follow the Text? No; let the text follow me and 'twill. Well then, let it be <hi>thou prateſt</hi>— let it be!—I ſay it ſhall be ſo—The fellow—You'l ſay he was an Em<g ref="char:EOLhyphen"/>peror,—ſhit o the Emperor—The fellow I ſay, was ſaucy—Whats the matter?—Why, he would have begged his life of one that would not give it him, and therefore he was anſwered in his own coyn. Why if a Cavaleer ſhould come to begg his life of me, are you ſuch Fools and Puppies to think I'de give it him? No I warrant ye—Yet I would not ſay to him as
+<pb n="6" facs="tcp:119361:4"/>
+if I were afraid of him. <hi>Thou ſpeakeſt in vain</hi>—but <hi>Sirrah, thou prateſt in vain:</hi> and ſo drive on to the next. <hi>Thou prateſt in vain.</hi> That is, thou talkeſt like a Fool, an Aſs, and a Cox-comb, of whoſe words there is no more notice to be taken, then of the barking of a Beggars <hi>Cur</hi> Here now muſt I wedge in a little ſpeech concerning Forgiveneſs.<note place="margin">He ſpies ſome body ſleeping</note> Ye Rogues you, I command ye to give attention—You friend, d'ye hear there! what cant you hold open your eyes? I had thought I had bawld loud enough to keep ye waking, good folkes—but ſome will give the devil opportunities in ſpite of a mans heart—take heed, take heed—when your ſoul is gon a wooll gathering, the devil he comes and takes poſſeſſion—But as concerning forgive<g ref="char:EOLhyphen"/>neſs; I'le tell ye, 'tis the baſeſt quality in the world— tis a ſigne of <hi>Good nature,</hi> and whats <hi>Good-nature,</hi> but folly, and ſimplicity? Look ye now, I have given you a reaſon for what I ſay, 'tis more then I need to do, I tell ye, I do uſe to give reaſons for every thing I ſay: Then I tell ye again that Forgiveneſs is an ill quality, a baſe quality, a vile quality, never uſe it, never practiſe it, y' are damnd if ye do, the devil, the devil will cer<g ref="char:EOLhyphen"/>tainly have ye if ye let it enter into your breſts—Now ye Rogues, you'd have a reaſon for this, would ye?— Yes when y' are hang'd, ye ſhall have new doublets— Reaſon quether! what would you do with reaſon? Stop Gliſter-pipes? What quirks the devil puts into folkes heads? Do's the devil give ye any reaſon, I wonder? And yet you can believe the devil, and wont believe me. But I care not for that, I ſay forgiveneſs is a baſe quality, and I'le juſtifi't, and I believe if the the truth were known the devil is of my minde too, if
+<pb n="7" facs="tcp:119361:4"/>
+he be not, he is a Ninny-hammer, and a Woodcock— But we muſt forgive our brother ſeven times— I con<g ref="char:EOLhyphen"/>feſs a brother is a neer relation, but I am ſo far from forgiving any body, that rather then I would forgive my brother ſeven times, I'de go ſeven mile to ſee him hang'd. Thus much by the by. <hi>Thou ſpeakeſt in vain, replyed St.</hi> George.</p>
+            <p>I make no queſtion but you have all a very great de<g ref="char:EOLhyphen"/>ſire to know who St. <hi>George</hi> is: But ſuppoſe I han't a minde to tell ye If I thought you did not take it for a <hi>Curteſie,</hi> I'de not tell ye, though it were to ſave your Souls. However, if I do, 'tis more my goodneſs then your deſerts. Why this St. <hi>George</hi> was the likeſt man to our deceaſed Champion that ever was in the world. He was the ſon of a woman, and ſo was our Champi<g ref="char:EOLhyphen"/>on: but he was not the daughter of a woman, no more was our Champion. He had a left arm and a right arm, and ſo had our Champion: He killed a Dragon, and ſo did not our <hi>Champion; S. George</hi> he was for <hi>England,</hi> and our Champion he was for the <hi>Fifth Monarchy.</hi> St. <hi>George</hi> was mighty furious, and ſo was our Champion. St. <hi>George</hi> went from <hi>Coventry</hi> to <hi>Dunſmore,</hi> and our Champion went from <hi>London</hi> to <hi>Warrington-Bridge;</hi> That journey broke St. <hi>Georges</hi> heart; and this journey broke our Champions heart: Judge you now how like they are. I hope ye are ſa<g ref="char:EOLhyphen"/>tisfied, if ye are not I can't help it; I am not to ſtay here all day to give you ſatisfaction. But why Saint <hi>George,</hi> and not Sir <hi>George?</hi> as if <hi>Saint</hi> were a better Title than <hi>Sir.</hi> But I ſay, No: for every man may be a <hi>Saint</hi> that will, but every man cannot be a <hi>Sir,</hi> un<g ref="char:EOLhyphen"/>leſs it be conferr'd upon him for ſome noble act. Is a
+<pb n="8" facs="tcp:119361:5"/>
+Knight then a better man then the King? Yes marry is he —How do I prove that? — Thus: if the Knight trye the King, then the Knight is a better man then the King; but the Knight did trye the King, Therefore — but that was againſt Law, you'l ſay — You Rogues I know the time when ye durſt as well have bin Hang'd as have ſaid ſo—But what if it were againſt Law. What then? All men know, the Law's aboliſh't.— But 'tis againſt the <hi>Goſpel</hi> then — 'tis not, — but ſuppoſe it were ſo: What's the Goſpel to us? I have preached againſt it a hundred times. The Goſpel! why if a man be reſolved, it ſignifies no more than the Story of <hi>Tom Thumb.</hi> Does it not, y'ould ſay? No ye Rogues, that it don't. — How dare you con<g ref="char:EOLhyphen"/>tradict me? Was I ever in Orders? Did ye ever ſee me preach with a Gown on? Did I ever keep cloſe to my Text? Then I ſay again, How dare you gain<g ref="char:EOLhyphen"/>ſay me? Dont let me thunder among ye, dont let me throw fire and brimſtone among ye; for if ye do, Ile make you ſmoke yfaith: Nay Ile begin even now while I think on't.</p>
+            <p>For the fifth Vial is poured out, and a tempeſt, a furious tempeſt, and a tempeſt of fury iſſues from the Eaſt, with a great ſmoke, and a Thunder-clap of wrath and indignation upon all Nations, and the ter<g ref="char:EOLhyphen"/>rible things that are to come ſhall make the Children quake, the Nurſes tremble, Big-bellyed women ſhall groan at their Delivery; for the Sun ſhall ſhine by day, and the Moon ſhall ſhine by night, the Earth ſhall ſtand ſtill, and the Waves of the Sea ſhall roar, then the wicked ſhall fall into the pit, but curſed is he that goeth with a Pitch-fork in one hand, and a pair
+<pb n="9" facs="tcp:119361:5"/>
+of Bellows in the other, thinking to pick up the glea<g ref="char:EOLhyphen"/>nings of Ephraim where they are not to be found.— Bounce, — bounce, — bounce, — there are three Amalekites ſlain. — Bounce, — bounce, — bounce, — there are ſix Amalekites ſlain. — So ſhall all the Amalekites be ſlain. Cucumbers ſhall not grow in <hi>Egypt,</hi> nor Musk-melons in the Valley of <hi>Jehoſaphat:</hi> then all things ſhall be as it was in the be<g ref="char:EOLhyphen"/>ginning. There you Rogues you, there is an <hi>Excur<g ref="char:EOLhyphen"/>ſion</hi> for you. Now let us ſee what's next.</p>
+            <p>
+               <hi>Not all the Treaſures hidden in the deepeſt Seas, nor all the golden Mines of rich</hi> America, <hi>ſhall redeem thy life.</hi> I, did St. <hi>George</hi> ſay ſo? 'twas reſolutely ſpo<g ref="char:EOLhyphen"/>ken upon my ſoul: but it was ſpoke more like a Sol<g ref="char:EOLhyphen"/>dier than a <hi>Politician;</hi> and that was our deceaſed Champions fault: the devil take him for me, he has <hi>ſoldier'd</hi> himſelf out of this world by his foppery. For my part, if the fellow would have given me half ſo much, I would have ſav'd his life. But <hi>Almidor</hi> was a dull, thick-pated fellow, and underſtood not how St. <hi>George</hi> miſ-underſtood his promiſe: for mark how the words run, <hi>Not all the treaſures hidden in the ſea.</hi> What a devil ſhould a man do with all the treaſures hidden in the ſea? but if <hi>Almidor</hi> would have taken 'um out of the ſea, and given 'um to St. <hi>George,</hi> and St. <hi>George</hi> had then refuſed to ſave his life, he had been the greateſt fool in the world. But perhaps the times were not ſo hard as now. — I dont know that, nor I dont much minde it. Let the times be hard or ſoft, he ought not to refuſe ſuch a proffer as that was, eſpecially being a Saint; I am ſure it has not been the practiſe of the Saints in my time. And for my part, I
+<pb n="10" facs="tcp:119361:6"/>
+believe we have as good Saints now, as any they had then: And ſo <hi>Expoſition</hi> farewel and be hang'd, that's twice god-buy.</p>
+            <p>Being thus quit of our Expoſition, let us uncaſe our Doctrine, which I perceive by the ſtory will be a very long one, even as long as the Maggot that was in our Champions head.</p>
+            <p>
+               <hi>That if a man have an enemy, and that enemy lye at his mercy, then it is the duty of that man to kill that enemy, though he would give never ſo much to ſave his life.</hi>
+            </p>
+            <p>This Doctrine, yee Rogues, is very true, Ile ſwear it to be a truth. Old <hi>Fiery face</hi> that dyed with a <hi>horſ<g ref="char:EOLhyphen"/>pocks</hi> was of this opinion, and left it behinde him as his <hi>Baſilicon Doron</hi> to his ſon, but the Puppy had not the wit to practiſe it. Why if the King could, and would have given that old <hi>Hypocrite</hi> a Manſion in heaven, it would not have ſaved his life; and I have have heard our deceaſed Champion ſay, That before his Son ſhould have dominion over him, he would <hi>roll to his grave in blood. Hector</hi> of <hi>Troy</hi> in his life of <hi>Judith</hi> and <hi>Holophernes,</hi> ſays, That a man ought to ſeek all opportunities to murther his enemies; <hi>For,</hi> ſaith he, <hi>when thou haſt done a man a miſchief, be ſure thou never let it be in his power to do thee another. Attila</hi> King of the <hi>Vandals,</hi> ſwears a great Oath in his Comment upon <hi>Bell</hi> and the <hi>Dragon,</hi> that he took as much delight in <hi>killing</hi> and <hi>ſlaying</hi> his enemies, as <hi>Richard Cromwel</hi> took in <hi>hawking</hi> and <hi>hunting Ta<g ref="char:EOLhyphen"/>merlane</hi> in his Treatiſe of <hi>Repentance,</hi> ſaith, That he never repented of any thing, but that he did not kill <hi>Bajazett</hi> preſently after he had taken him; <hi>For,</hi> ſaith
+<pb n="11" facs="tcp:119361:6"/>
+he, <hi>ſuppoſe the Forces of</hi> Bajazett <hi>had beaten me, and he had got looſe, then might he have carried me in a Cage, as I have carried him in a Cage. Orlando Fu<g ref="char:EOLhyphen"/>rioſo</hi> in his book called <hi>The Vanity of Forgiveneſs,</hi> ſayes abſolutely there is no ſuch thing, and for my part I believe it, and if you wont, yee are not of my minde, and who is not of my minde, is damn'd: if you wont believe that neither, kiſs my back-ſide.</p>
+            <p>Hold! What have I forgot? Now I think on't I have a Letter from our deceaſed Champion which was given me by his wife, to read to ye for your ſatisfacti<g ref="char:EOLhyphen"/>on; But as for your ſatisfaction I value not that of a ſtraw, I onely read it for my own minds ſake, and be<g ref="char:EOLhyphen"/>cauſe 'tis a novelty, and therefore ye varlets you give attention.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My moſt affectionate, and dearly beloved conſort,</salute>
+                  </opener>
+                  <p>VVIſhing thee health and happineſs and the enjoyment of all worldly comforts, for I finde thoſe which we have in this place are no way like unto them, know that I have wrote theſe lines unto thee, to certifie to thee the truth of a thing, which among all theſe ſpiritual experiences which I bragg'd to have while I was accuſtomed to thy ſheets, was ne<g ref="char:EOLhyphen"/>ver reveal'd unto me till now. Thou knoweſt that when we laſt took our leaves upon earth, I ſware unto thee by the laſt holy parting-kiſs that I gave thee, that I would not ſo forſake thee but would be with thee again before three days ſhould be at an end, after the hand of the wretched Executioner had deſtroy'd my carnal body. But ſo it is, that upon better knowledge I now finde an eternal ſtop put unto my journey, ſo that
+<pb n="12" facs="tcp:119361:7"/>
+'tis impoſſible for me to be as good as my word, as in<g ref="char:EOLhyphen"/>deed every honeſt man ought to be: now becauſe I cannot come I have ſent, knowing that to be a poynt of breeding which excuſes breach of promiſe, yea even among the moſt exact. Therefore I deſire thee not to ſtay for me to ſupper, and unleſs it be for the comfor<g ref="char:EOLhyphen"/>table ſolace of thy own appetite, I entreat thee not to lay down the fat Capons, nor to perpare Oyſters for ſawce: 'Tis true we had many Chimaeras in our heads, and talked of ſitting upon thrones, but I was ſo much deceived that when I came hither, I could hardly finde ſo much as a cricket to reſt my ſelf upon, though much tired with the length of my journey.</p>
+                  <p>Thou wilt ſay that Spirits may walk, and why may not I walk as well as any other ſpirits. Alas my dear wife the caſe is not the ſame. For the bodies of thoſe that walk are layd whole in their graves, ſo that the Devil has nothing to do but to open the Coffin and let him out, but my body is ſo ſlaſht and ſo mangled, that the devil will never take the paines to put them toge<g ref="char:EOLhyphen"/>ther again, for you muſt not think my dear wife that it is a ſmall trouble to go from gate to gate, and there to clamber up and fetch down the quarters, and then to clamber up and put um again in their places, beſides the continual charges, as penſions for Bone-ſetters, Smiths to make ſcrews for my joynts, and <hi>Loath-bury</hi> Clock-makers, to make my eyes roll in my head. Alas what good can I do the if I ſhould come; for I know thou will expect that I ſhould do as I did formerly, but curſed be the Hang-man and the Hang-mans man who cut off theſe members the firſt thing they did, and burnt them to aſhes: Therefore oh Daughter of woman bet<g ref="char:EOLhyphen"/>ter
+<pb n="13" facs="tcp:119361:7"/>
+is it that I ſhould ſtay from thee, then come to cauſe in thee a longing deſire after that comfort which I am not able to afford thee. Therefore make uſe of ſome body elſe who is among the living, for there are among the brethren many that have as good inſtruments as I ever had, and will be willing to do thee a curteſie for my ſake. By this time I believe, thou mayeſt be al<g ref="char:EOLhyphen"/>moſt blind with weeping, therefore I ſhall ſay no more but this, prethee commend me to all the brethren of our profeſſion, and tell them that if they will come where I am, they muſt keep on in their old courſe, which I the rather adviſe them to do, becauſe I would have others damned as well as my ſelf.</p>
+                  <closer>
+                     <dateline>
+                        <hi>A Barathro infernali,</hi>
+                        <date>
+                           <hi>Octob.</hi> 16. 1660.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Look ye, ye Rogues you, did you ever hear ſuch a Letter as this? Ye may thank me for't, a Letter from hell ye Rogues you: There's news for ye — Now you that are ſo much for heaven, what think ye of Hell now?—You had thought there had bin no honeſt men there, I warrant,—but ye ſee there are—Well then—and why goodman Cox-combs will not you go to Hell then — a Rope take ye all, 'tis too good for yee, unleſs ye were better. Do but marke here the honeſty of this man, he had promiſed his wife to come to her in three days, good woman ſhe could ſay no o<g ref="char:EOLhyphen"/>therwiſe then ſhe was told, and ſhe tells you, that he ſaid ſo. Well then! what of all this? As if a man might not promiſe ſometimes a thing which he knows he cannot perform, and ſometimes a thing which he ne<g ref="char:EOLhyphen"/>ver intends. But this man doubtleſs did intend to come though when he ſaw he could not, he ſent word by the
+<pb n="14" facs="tcp:119361:8"/>
+firſt return of the poſt. But you'l ſay is not his wife very ſorry? Why goodman Puppies, what have you to do whether ſhe be or no — good now meddle with your own buſineſs — What need you be asking ſo many queſtions to trouble your braines? If I don't tell you as much and more then you are able to carry a<g ref="char:EOLhyphen"/>way, without your help, let me ſuffer for it.</p>
+            <p>For when I came in, his wife was a ſaying, <hi>Lord I wonder my husband does ſtay ſo long, and knows that the meat will be ſpoyled. I wonder too, ſaid I, truly I don't think he will come to night. Yes, yes, I am certain on't,</hi> quoth ſhe. Would he would come away then, thought I, for I was very hungry, and was very melancholy to ſee ſuch good meat like to be over Roaſted: Well— While I was in theſe meditations, my gutts chiding my ſtomack, and my ſtomack making defences and excuſes to my gutts, in comes this Letter, I read it over, and when I ſaw he would not come, I cen bid the maid ſet the meat upon the Table, for we teachers ye know, are always very familiar where we come. She wept, I ſwallowed my victuals; Come Siſter quoth I, the more you weep, the leſs you'l Piſs and ſo I com<g ref="char:EOLhyphen"/>forted her as well as I could, but ſhe would not be comforted but wept exceedingly. From hence I gather that neceſſity has no law: for I finde by the ſtory that our brother would have bin glad with all his heart to have come again, but it ſeemes he cannot. And for my part I don't care whether he ever do or no, onely I had a minde to read the Letter, becauſe ſhe deſired me, it may be ſhe may do me as good a turn. But that's no<g ref="char:EOLhyphen"/>thing to you, and ſo lets jogg on to the Uſes.</p>
+            <p>Is it ſo then that a man ought not to ſave the life of
+<pb n="15" facs="tcp:119361:8"/>
+his foe, though he would give him never ſo much.</p>
+            <p>Then let this ſerve for a uſe of admonition, to ad<g ref="char:EOLhyphen"/>moniſh us to make our ſelves great in this world, that we may be able to deſtroy all our enemies. Namely Emperors, Kings, Dukes, Marqueſſes, Earles, Lords, Viſcounts, Knights and Gentlemen. For theſe, mark what I ſay ye Varlets, are the poſts, by which Satan up<g ref="char:EOLhyphen"/>holds his weak Government upon the Earth: Ay but ye Rogues you, I can tell you one thing, they are but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otten poſts; ſtay but a little while and they ſhall be all pulled down, for our King ſhall come among them with a firy indignation, who is King of the world, though he is not in the world yet, but he ſhall come, and ſhall bring along with him ten thouſand Angels with blew Wings, and Turkiſh Semitars by their ſides, and ſhall deſtroy all and wom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, that are not of our profeſſion, then ſhall we ſwim at the top of the waters like Cork, but the wicked ſhall ſink down to the bottom, and ſhall be covered with the waters of deſtruction. Then ſhall Satan roar like all the Bulls of <hi>Baſhan,</hi> the Rulers of the Earth ſhall ſit bare-breeched upon Hawthorn-Buſhes, with Knitting-needles in their hands, But Ravili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck ſhall ſit in glory for killing the King, for we that are the Saints ſhall rule the Earth: but how came we to be ſaints you I ſay? Why you Rogues you who made you examiners? is it not enough that I tell you ſo? Therefore when you get your foes into your Cluttches uſe them like dogs, cut um, ſlice um, boyle um, roaſt um, bake um, ſtew um, hang um, hew um, torture um; and why? Becauſe they are the accurſed generation, or the generation of the accurſed. For Antichriſt and the Pope are all one. Ah Pope,
+<pb n="15" facs="tcp:119361:9"/>
+have I caught thee, Ile have a fling at thy breech ifaith, Oh thou accurſed whore, thou monſtrous devil, thou confounded punk, how often have I railed againſt thee both in private and publick, but thou art ſtill the ſame, ſhame on thee and all thy warbling noates, and thy Queriſters and thy bagpipes, and this lawn ſleeves, for you have Gold and Silver in abundance, and we can get nothing but a little butter-mony from the ſilly wo<g ref="char:EOLhyphen"/>men which they glean from their husbands by over rating the price of proviſions. But the time ſhall come when ye ſhall all be ſent out of the world will a horſe<g ref="char:EOLhyphen"/>pox. And then hey for the men that hate Cuffs, and tye the latchets of their ſhoes with blew Tape; for they are the blades that ſhall ſack <hi>Rome.</hi> Then ſhall Scarlet be at three half pence an Ell, and men ſhall pave the Hearths of their Chimneys with Diamonds. But hold! <hi>I</hi> muſt not let you ſurfeit with too much joy at one time, and therefore Ile keep the reſt till I ſee you again, and ſo farewel.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
